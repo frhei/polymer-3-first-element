@@ -17,7 +17,5 @@
     "@webcomponents/webcomponentsjs": "1.0.20"
   },
   "scripts": {
-    "postinstall": "npm install -g polymer-cli",
-    "start": "polymer serve --open"
   }
 }
