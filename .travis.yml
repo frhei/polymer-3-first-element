@@ -9,6 +9,6 @@ deploy:
   app: my-polymer-trial
   on:
     repo: frhei/polymer-3-first-element
-  - npm install -g polymer-cli
- 
+
+# npm install -g polymer-cli
 # polymer serve --open
