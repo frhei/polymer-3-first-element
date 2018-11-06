@@ -18,6 +18,6 @@
     "@webcomponents/webcomponentsjs": "1.0.20"
   },
   "scripts": {
-    "start": "polymer serve --open"
+    "start": "polymer serve"
   }
 }
